@@ -1,0 +1,13 @@
+{
+  "name": "starter-basic-import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "node server.js",
+    "build": "react-scripts build"
+
+  },
+  "author": "HackYourFutureBelgium",
+  "license": "MIT"
+}
